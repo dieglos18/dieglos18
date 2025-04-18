@@ -3,15 +3,15 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 
 ## 🔧 What I Bring to the Table
 
-🧠 **Systems Thinker** – I connect the dots between code, users, and product goals for scalable solutions.  
-⚡ **Quick to Learn** – AWS & Docker certified, currently expanding into DevOps and cloud-native architecture.  
-🤝 **Collaborative by Nature** – I thrive in cross-functional teams, working seamlessly with developers, designers, and stakeholders.  
-🎯 **Product-Driven Mindset** – Focused on crafting intuitive, accessible, and user-first digital experiences.  
-🚀 **AI Enthusiast** – Exploring Prompt Engineering and LLM tools like LangChain to enhance problem-solving capabilities.
+**Systems Thinker** – I connect the dots between code, users, and product goals for scalable solutions.  
+**Quick to Learn** – AWS & Docker certified, currently expanding into DevOps and cloud-native architecture.  
+**Collaborative by Nature** – I thrive in cross-functional teams, working seamlessly with developers, designers, and stakeholders.  
+**Product-Driven Mindset** – Focused on crafting intuitive, accessible, and user-first digital experiences.  
+**AI Enthusiast** – Exploring Prompt Engineering and LLM tools like LangChain to enhance problem-solving capabilities.
 
 
 ## 💻 Tech Stack:
-### 🧠 Languages & Core
+### Languages & Core
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
@@ -20,7 +20,7 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 
 ---
 
-### ⚙️ Backend & API
+### Backend & API
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
@@ -30,7 +30,7 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 
 ---
 
-### 💻 Frontend
+### Frontend
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
@@ -38,7 +38,7 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 
 ---
 
-### 🛠️ Dev Tools & Package Managers
+### Dev Tools & Package Managers
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -47,7 +47,7 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 
 ---
 
-### ☁️ Cloud & Databases
+### Cloud & Databases
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
