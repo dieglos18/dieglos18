@@ -53,8 +53,10 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 <br><br>
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dieglos18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=dieglos18&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dieglos18&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dieglos18)<br><br>
