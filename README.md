@@ -2,7 +2,13 @@
 I'm a Full Stack Developer with 3 years of hands-on experience building scalable, user-friendly web applications using Next.js, NestJS, and TypeScript. I’m passionate about crafting clean, reliable code that balances frontend elegance with backend performance.<br><br>Lately, I’ve been diving into the world of AI as an Entry-Level Prompt Engineer, exploring tools like LangChain and applying my backend logic and critical thinking to build smart, human-centered LLM solutions.<br><br>
 
 ## 🔧 What I Bring to the Table
-🧠 Systems Thinker – I align code, users, and product goals.<br><br>🚀 Fast Learner – Certified in AWS, Docker, and diving into DevOps.<br><br>🤝 Team Player – I collaborate naturally across tech and design teams.<br><br>💡 Product Mindset – I build intuitive, accessible, and impactful software.<br><br>
+
+🧠 **Systems Thinker** – I connect the dots between code, users, and product goals for scalable solutions.  
+⚡ **Quick to Learn** – AWS & Docker certified, currently expanding into DevOps and cloud-native architecture.  
+🤝 **Collaborative by Nature** – I thrive in cross-functional teams, working seamlessly with developers, designers, and stakeholders.  
+🎯 **Product-Driven Mindset** – Focused on crafting intuitive, accessible, and user-first digital experiences.  
+🚀 **AI Enthusiast** – Exploring Prompt Engineering and LLM tools like LangChain to enhance problem-solving capabilities.
+
 
 ## 💻 Tech Stack:
 ### 🧠 Languages & Core
