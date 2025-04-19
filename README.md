@@ -4,7 +4,7 @@ I'm a Full Stack Developer with 3 years of hands-on experience building scalable
 ## 🔍 What I Bring to the Table
 
 - **Systems Thinker** – I connect the dots between code, users, and product goals for scalable solutions.
-- **Quick to Learn** – AWS & Docker certified, currently expanding into DevOps and cloud-native architecture.
+- **Adaptable & Passionate Learner** – I quickly adjust to the technical needs of each project and thrive on learning new tools, stacks, and concepts.
 - **Collaborative by Nature** – I thrive in cross-functional teams, working seamlessly with developers, designers, and stakeholders.
 - **Product-Driven Mindset** – Focused on crafting intuitive, accessible, and user-first digital experiences.
 - **AI Enthusiast** – Exploring Prompt Engineering and LLM tools like LangChain to enhance problem-solving capabilities.
