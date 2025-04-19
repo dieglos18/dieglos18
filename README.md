@@ -1,7 +1,7 @@
 # Hello there, I'm Diego 🌌
 I'm a Full Stack Developer with 3 years of hands-on experience building scalable, user-friendly web applications using Next.js, NestJS, and TypeScript. I’m passionate about crafting clean, reliable code that balances frontend elegance with backend performance.<br><br>Lately, I’ve been diving into the world of AI as an Entry-Level Prompt Engineer, exploring tools like LangChain and applying my backend logic and critical thinking to build smart, human-centered LLM solutions.<br><br>
 
-## 🔍 What I Bring to the Table
+## 🔍 What I Bring to the Table:
 
 - **Systems Thinker** – I connect the dots between code, users, and product goals for scalable solutions.
 - **Adaptable & Passionate Learner** – I quickly adjust to the technical needs of each project and thrive on learning new tools, stacks, and concepts.
