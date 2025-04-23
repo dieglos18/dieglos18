@@ -2,7 +2,7 @@
 I'm a Full Stack Developer with 3 years of hands-on experience building scalable, user-friendly web applications using **Next.js**, **NestJS**, and **TypeScript**. I’m passionate about crafting clean, reliable code that balances frontend elegance with backend performance.<br><br> 
 Lately, I’ve been diving into the world of **AI** as an Entry-Level Prompt Engineer, exploring tools like **LangChain** and applying my backend logic and critical thinking to build smart, human-centered LLM solutions.<br><br>  
 
-> _""I don’t have dreams, I have goals."_ – Harvey Specter  
+> _"I don’t have dreams, I have goals."_ – Harvey Specter  
 >  
 > This quote resonates deeply with my journey — everything I pursue in tech is guided by purpose, precision, and continuous growth.
 <br>
