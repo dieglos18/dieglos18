@@ -1,5 +1,5 @@
 # Hi there! I'm Diego 🪐
-I'm a Software Developer with 4+ years of hands-on experience building scalable, user-friendly web applications using **Next.js**, **NestJS**, and **TypeScript**. I’m passionate about crafting clean, reliable code that balances frontend elegance with backend performance.<br><br> 
+I'm a Full-Stack Engineer with 4+ years of hands-on experience building scalable, user-friendly web applications using **Next.js**, **NestJS**, and **TypeScript**. I’m passionate about crafting clean, reliable code that balances frontend elegance with backend performance.<br><br> 
 Lately, I’ve been diving into the world of **AI** as an Entry-Level Prompt Engineer, exploring tools like **LangChain** and applying my backend logic and critical thinking to build smart, human-centered LLM solutions.<br><br>  
 
 > _"I don’t have dreams, I have goals."_ – Harvey Specter  
